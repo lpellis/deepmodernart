@@ -1,15 +1,15 @@
 <template>
-  <div>
-    
+  <div style="background-color:#F8F9FD">
+
     <div>
-      <b-navbar variant="gray-800" type="dark" toggleable="lg" fixed="top">
+      <b-navbar toggleable="lg" fixed="top">
         <b-container>
           <b-navbar-brand class="mb-0">
             <g-link to="/" class="nav-link text-white">
               <font-awesome :icon="['fas', 'plus-square']"></font-awesome> {{ $static.metadata.siteName }}
             </g-link>
           </b-navbar-brand>
-          
+
           <b-collapse id="header-navbar" is-nav class="overlay-navigation">
             <b-navbar-nav class="ml-auto lead nav-content">
               <g-link to="/" class="nav-link" exact>Home</g-link>
@@ -24,7 +24,7 @@
             <Search></Search>
           </b-navbar-nav>
           <b-navbar-toggle target="header-navbar" class="border-0" v-on:click="showNavigation"></b-navbar-toggle>
-          
+
         </b-container>
       </b-navbar>
     </div>
@@ -46,7 +46,7 @@ let myBody = {
 };
 
 export default {
-  
+
   components: {
     Search
   },
