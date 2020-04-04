@@ -3,7 +3,8 @@ import EmptyLayout from '~/layouts/EmptyLayout.vue';
 
 import BootstrapVue from 'bootstrap-vue';
 import VueFuse from 'vue-fuse';
-
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap-vue/dist/bootstrap-vue.css';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { config, library } from '@fortawesome/fontawesome-svg-core';
 import { fas } from '@fortawesome/free-solid-svg-icons';
@@ -15,6 +16,8 @@ import '@fortawesome/fontawesome-svg-core/styles.css';
 import '~/resources/scss/theme.scss';
 import 'prismjs/themes/prism.css';
 import '~/resources/scss/prism-theme.scss';
+
+
 
 import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 

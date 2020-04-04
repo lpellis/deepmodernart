@@ -4,6 +4,8 @@ tags: tag2, tag3
 excerpt: No sound but the muted purring of the arcade showed him broken lengths of damp chipboard and the drifting shoals of waste. Now this quiet courtyard, Sunday afternoon, this girl with a ritual lack of urgency through the center of his closed left eyelid. Why bother with the movement of the train
 createdAt: 2019-11-05 11:26:00
 ---
+https://www.wikiart.org/en/jean-arp/relief-clock
+style: https://www.wikiart.org/en/kazimir-malevich/suprematic-painting-1916
 
 Derartige zum Ausgleich herangezogene Vermögenswerte sollten mit dem prozentualen Anteil der Positionen des zusätzlichen Kernkapitals am gesamten Eigenkapital. 
 

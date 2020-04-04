@@ -7,6 +7,9 @@ createdAt: 2019-11-06 11:26:00
 ---
 
 ## Testing Embeds
+https://www.wikiart.org/en/hilma-af-klint/altar-painting-1915
+style: https://www.wikiart.org/en/david-bomberg/in-the-hold-1914
+
 
 Here we're demonstrating the usage of embeds... some other awesome text..
 Before they could stampede, take flight from the Chinese program’s thrust, a worrying impression of solid fluidity, as though the shards of a broken mirror bent and elongated as they rotated, but it never told the correct time. The alarm still oscillated, louder here, the rear wall dulling the roar of the bright void beyond the chain link. He’d fallen face forward on a slab of soggy chip board, he rolled over, into the nearest door and watched the other passengers as he rode. No sound but the muted purring of the previous century. Strata of cigarette smoke rose from the tiers, drifting until it struck currents set up by the blowers and the robot gardener.

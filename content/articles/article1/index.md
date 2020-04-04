@@ -7,6 +7,9 @@ createdAt: 2019-11-01 11:26:00
 
 ## Et quem natas acuto
 
+https://www.wikiart.org/en/david-burliuk/dedication-to-cezanne-1910
+style: the scream
+
 haribo
 
 Lorem markdownum, faeno his Iuli trepidosque Alcyone robur vocem mentito

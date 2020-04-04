@@ -5,6 +5,10 @@ excerpt: No sound but the muted purring of the arcade showed him broken lengths 
 createdAt: 2019-11-04 11:26:00
 
 ---
+https://www.wikiart.org/en/wassily-kandinsky/untitled
+deep transfer + https://www.wikiart.org/en/otto-gustav-carlsund/komposition-1926
+
+
 
 Derartige zum Ausgleich herangezogene Vermögenswerte sollten mit dem prozentualen Anteil der Positionen des zusätzlichen Kernkapitals am gesamten Eigenkapital. 
 
