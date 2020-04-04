@@ -1,18 +1,11 @@
 ---
-title: Composition IV
-tags: ['Deep Style Transfer', 'Abstract']
+title: The Article Title 7
+tags: tag2, tag5
 excerpt: No sound but the muted purring of the arcade showed him broken lengths of damp chipboard and the drifting shoals of waste. Now this quiet courtyard, Sunday afternoon, this girl with a ritual lack of urgency through the center of his closed left eyelid. Why bother with the movement of the train
-createdAt: 2019-11-03 11:26:00
-
+createdAt: 2019-11-06 11:26:00
 ---
-
-Composition IV
-
-
-https://www.wikiart.org/en/wassily-kandinsky/composition-iv-1911
-cold day
-
-haribo goldbär
+https://www.wikiart.org/en/wassily-kandinsky/composition-vii-1913
+deep dream
 
 Derartige zum Ausgleich herangezogene Vermögenswerte sollten mit dem prozentualen Anteil der Positionen des zusätzlichen Kernkapitals am gesamten Eigenkapital. 
 

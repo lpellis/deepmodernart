@@ -64,13 +64,6 @@
 
     <SectionLatestArticles></SectionLatestArticles>
 
-    <SectionContribute></SectionContribute>
-
-    <SectionInfoBoxes></SectionInfoBoxes>
-
-    <SectionLatestNews></SectionLatestNews>
-
-    <SectionOpenSource></SectionOpenSource>
 
   </DefaultLayout>
 </template>

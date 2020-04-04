@@ -2,7 +2,7 @@
   <section class="pt-5">
     <b-container>
       <div class="text-center">
-        <h2>Lastest Articles</h2>
+        <h2>Lastest DeepAbstract Art</h2>
         <p class="lead">Curious what new articles are on our website? Check out our latest articles!</p>
       </div>
 
@@ -34,7 +34,7 @@ export default {
     records: allArticle(limit:6, sortBy:"createdAt") {
       edges {
         node {
-          title, 
+          title,
           path,
           slug,
           excerpt,

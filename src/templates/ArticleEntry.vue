@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <SectionHeader :record="$page.entry"></SectionHeader>
+    <img src="/images/articles/1.jpg">
 
     <b-container class="mt-5 mb-5">
       <b-row>
@@ -13,9 +13,9 @@
       </b-row>
     </b-container>
 
-    
+
     <b-container fluid v-if="relatedRecords.length==2">
-      
+
       <b-row class="text-center pt-5 bg-gray-100">
         <b-col>
           <h2 class="display-4">You might also like</h2>
@@ -23,18 +23,18 @@
       </b-row>
 
       <b-row class="height-30 bg-gray-100 pb-5 related-records">
-        
+
         <b-col sm="12" md="6" class="pr-5 pl-5 mt-5 border-right" v-for="relatedRecord in relatedRecords" :key="relatedRecord.node.id">
           <h4 class="">{{ relatedRecord.node.title }}</h4>
           <p v-html="relatedRecord.node.excerpt"></p>
 
           <g-link :to="recordLink(relatedRecord.node)" class="btn btn-lg btn-primary">Continue reading</g-link>
-          
+
         </b-col>
-        
+
       </b-row>
     </b-container>
-    
+
   </DefaultLayout>
 </template>
 
@@ -70,7 +70,7 @@
       }
     }
 
-    
+
   }
 </page-query>
 
@@ -85,7 +85,7 @@ export default {
   },
 
   methods: {
-    recordLink(record) {      
+    recordLink(record) {
       return `/articles/${record.slug}`;
     }
   },
