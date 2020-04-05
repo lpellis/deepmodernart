@@ -44,7 +44,7 @@
 
       <b-row class="text-center pt-5 bg-gray-100">
         <b-col>
-          <h4>More DeepAbstract Art</h4>
+          <h4>More Works</h4>
         </b-col>
       </b-row>
 
