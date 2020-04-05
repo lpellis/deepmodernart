@@ -141,12 +141,6 @@ export default {
     relatedRecords() {
       return sampleSize(this.$page.related.edges, 2);
     },
-    setImage: function(){
-      return require(`~/resources/images/art/${this.$page.entry.image}/deepart.jpg`);
-    },
-    setImage2: function(){
-      return require(`~/resources/images/art/${this.$page.entry.image}/original.jpg`);
-    }
   },
 
   metaInfo() {
