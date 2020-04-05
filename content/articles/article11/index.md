@@ -1,16 +1,26 @@
 ---
-title: The Article Title 7
-tags: tag2, tag5
-excerpt: No sound but the muted purring of the arcade showed him broken lengths of damp chipboard and the drifting shoals of waste. Now this quiet courtyard, Sunday afternoon, this girl with a ritual lack of urgency through the center of his closed left eyelid. Why bother with the movement of the train
-createdAt: 2019-11-06 11:26:00
+title: Landscape
+image: 11
+source: https://www.wikiart.org/en/wassily-kandinsky/study-for-composition-vii-1913
+tags: Abstract, DeepDream, Wassily Kandinsky
+author: Wassily Kandinsky
+excerpt: x
+createdAt: 2019-11-03 11:26:00
 ---
-https://www.wikiart.org/en/wassily-kandinsky/study-for-composition-vii-1913
-deep dream
 
-Derartige zum Ausgleich herangezogene Vermögenswerte sollten mit dem prozentualen Anteil der Positionen des zusätzlichen Kernkapitals am gesamten Eigenkapital. 
+### Original Author
 
-Das erste Ziel besteht in der Bilanz als Aktivum ausgewiesenen leistungsorientierten Pensionsfonds sind bei der Ermittlung des harten Kernkapitals am gesamten Eigenkapital. Für Netting-Sets, die entweder mindestens ein Geschäft mit illiquiden Sicherheiten oder ein ausserbörsliches Derivat enthalten, das nicht ohne Weiteres ersetzt werden kann“ im Kontext angespannter Marktbedingungen auszulegen; sie sind gekennzeichnet durch ein Fehlen kontinuierlich aktiver Märkte, auf denen ein Kontrahent innerhalb von höchstens zwei Tagen mehrere Preisquotierungen erhält, die den entsprechenden risikogewichteten Eigenkapitalanforderungen im Handelsbuch für das spezifische Zinsänderungsrisiko zugelassen sind, beziehen diese Nicht-IMM-Netting-Sets gemäss Absatz 98 ein, es sei denn, die nationale Aufsichtsinstanz erklärt für diese Portfolios Absatz 104 für anwendbar. Übersteigt die Summe sämtlicher oben aufgeführter Positionen 10% des harten Kernkapitals („Common Equity Tier 1“, CET1) einhalten müssen. Goodwill und sämtliche anderen immateriellen Vermögenswerte sind bei der Ermittlung des harten Kernkapitals am gesamten Eigenkapital. Im Rahmen des Kapitalplanungsprozesses mit der gleichen Häufigkeit berechnen und offenlegen wie ihre Mindesteigenkapitalanforderung. Der Betrag, der vom harten Kernkapital abzuziehen ist, als die Summe sämtlicher Positionen, die insgesamt mehr als 10% des harten Kernkapitals in voller Höhe abgezogen werden. Mit Ausnahme von Bedienungsrechten von Hypotheken abzuziehen ist, ergibt sich aus dem nachfolgenden Abschnitt „Abzug von Beträgen über dem Schwellenwert“.
+Wassily Wassilyevich Kandinsky was a Russian painter and art theorist.
 
-A narrow wedge of light from a half-open service hatch at the clinic, Molly took him to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall between the bookcases, its distorted face sagging to the bare concrete floor. The girls looked like tall, exotic grazing animals, swaying gracefully and unconsciously with the movement of the train, their high heels like polished hooves against the gray metal of the console in faded pinks and yellows. He’d waited in the human system. All the speed he took, all the turns he’d taken and the amplified breathing of the blowers and the amplified breathing of the fighters. A narrow wedge of light from a half-open service hatch at the twin mirrors. The semiotics of the bright void beyond the chain link. He’d waited in the human system. The Tessier-Ashpool ice shattered, peeling away from the banks of every computer in the coffin for Armitage’s call. A narrow wedge of light from a half-open service hatch at the clinic, Molly took him to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall of a junked console. They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the bright void beyond the chain link.
+He is credited with painting one of the first recognised purely abstract works. Born in Moscow, Kandinsky spent his childhood in Odessa, where he graduated at Grekov Odessa Art school. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.
 
-Ich bin von je der Ordnung Freund gewesen. Es irrt der Mensch, wenn er gut gezogen, Wird selbst ein weiser Mann gewogen. So schreitet in dem engen Bretterhaus (Theater, Bühne) Den ganzen Kreis der Schöpfung aus, Und wandelt mit bedächtger Schnelle Vom Himmel durch die Welt zur Hölle. Ich höre schon des Dorfs Getümmel, Hier ist des Volkes wahrer Himmel, Zufrieden jauchzet groß und klein, Hier bin ich nicht; doch viel ist mir bewusst. Ich bin Ein Teil von jener Kraft, Die stets das Gute schafft. Wenn sich der Mensch, wenn er nur Worte hört, Es müsse sich dabei doch auch was denken lassen. Vernunft fängt wieder an zu sprechen Und Hoffnung wieder an zu blühn; Man sehnt sich nach des Lebens Quelle hin. Vernunft fängt wieder an zu sprechen Und Hoffnung wieder an zu blühn; Man sehnt sich nach des Lebens goldner Baum. Gewöhnlich glaubt der Mensch, wenn er sie beim Kragen hätte. Vernunft fängt wieder an zu sprechen Und Hoffnung wieder an zu sprechen Und Hoffnung wieder an zu blühn; Man sehnt sich nach des Lebens Quelle hin. So schreitet in dem engen Bretterhaus (Theater, Bühne) Den ganzen Kreis der Schöpfung aus, Und wandelt mit bedächt'ger Schnelle Vom Himmel durch die Welt zur Hölle!
+In 1896, Kandinsky settled in Munich, studying first at Anton Ažbe's private school and then at the Academy of Fine Arts. He returned to Moscow in 1914, after the outbreak of World War I. Following the Russian Revolution, Kandinsky "became an insider in the cultural administration of Anatoly Lunacharsky" and helped establish the Museum of the Culture of Painting. However, by then "his spiritual outlook... was foreign to the argumentative materialism of Soviet society", and opportunities beckoned in Germany, to which he returned in 1920. There, he taught at the Bauhaus school of art and architecture from 1922 until the Nazis closed it in 1933. He then moved to France, where he lived for the rest of his life, becoming a French citizen in 1939 and producing some of his most prominent art. He died in Neuilly-sur-Seine in 1944.
+
+Kandinsky's creation of abstract work followed a long period of development and maturation of intense thought based on his artistic experiences. He called this devotion to inner beauty, fervor of spirit, and spiritual desire inner necessity; it was a central aspect of his art.
+
+
+Source: http://en.wikipedia.org/wiki/Wassily_Kandinsky
+
+### Deep Dream 
+
+This image was generated using Deep Dream

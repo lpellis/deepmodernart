@@ -6,7 +6,6 @@ tags: Abstract, DeepStyle, Giacomo Balla
 author: Giacomo Balla
 excerpt: x
 createdAt: 2019-11-03 11:26:00
-
 ---
 
 ### Original Author
