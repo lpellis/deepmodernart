@@ -201,20 +201,20 @@ module.exports = {
           require('postcss-nested'),
         ]);
 
-        if (process.env.NODE_ENV === 'production') {
-          options.plugins.push(...[
-            require('@fullhuman/postcss-purgecss')({
-              content: [
-                'src/assets/**/*.css',
-                'src/**/*.vue',
-                'src/**/*.js'
-              ],
-
-              whitelist: ['svg-inline--fa'],
-              whitelistPatterns: [/shiki/, /fa-$/]
-            })
-          ]);
-        }
+        // if (process.env.NODE_ENV === 'production') {
+        //   options.plugins.push(...[
+        //     require('@fullhuman/postcss-purgecss')({
+        //       content: [
+        //         'src/assets/**/*.css',
+        //         'src/**/*.vue',
+        //         'src/**/*.js'
+        //       ],
+        //
+        //       whitelist: ['svg-inline--fa'],
+        //       whitelistPatterns: [/shiki/, /fa-$/]
+        //     })
+        //   ]);
+        // }
         return options;
       });
     config

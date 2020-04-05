@@ -8,7 +8,7 @@
           <g-link class="card-link" to="/articles"><h5>Explore</h5></g-link>
         </b-col>
         <b-col md="4" lg="6" class="pt-3 pb-3">
-          <ClientOnly>
+
           <b-carousel
                   id="carousel-fade"
                   style="text-shadow: 0px 0px 2px #000"
@@ -29,7 +29,7 @@
                     img-height="480"
             ></b-carousel-slide>
           </b-carousel>
-          </ClientOnly>
+
         </b-col>
 
       </b-row>
