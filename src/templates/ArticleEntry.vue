@@ -44,17 +44,28 @@
 
       <b-row class="text-center pt-5 bg-gray-100">
         <b-col>
-          <h2 class="display-4">You might also like</h2>
+          <h4>More DeepAbstract Art</h4>
         </b-col>
       </b-row>
 
-      <b-row class="height-30 bg-gray-100 pb-5 related-records">
+      <b-row class="height-30" align-h="around">
 
-        <b-col sm="12" md="6" class="pr-5 pl-5 mt-5 border-right" v-for="relatedRecord in relatedRecords" :key="relatedRecord.node.id">
-          <h4 class="">{{ relatedRecord.node.title }}</h4>
-          <p v-html="relatedRecord.node.excerpt"></p>
+        <b-col colls="4" lg="4" md="4"  v-for="relatedRecord in relatedRecords" :key="relatedRecord.node.id">
+          <p></p>
+          <b-card class="h-60 infobox" footer-class="border-0">
 
-          <g-link :to="recordLink(relatedRecord.node)" class="btn btn-lg btn-primary">Continue reading</g-link>
+            <b-card-title tag="h4">
+              {{ relatedRecord.node.title }}
+            </b-card-title>
+
+
+            <b-card-text>
+              <g-link class="card-link" :to="recordLink(relatedRecord.node)"><img  :src="`/images/art/${relatedRecord.node.image}/deepart.jpg`" style="max-width:100%;max-height:240px"></g-link>
+              <br>
+              {{ relatedRecord.node.author }}
+            </b-card-text>
+
+          </b-card>
 
         </b-col>
 
@@ -94,6 +105,8 @@
           id
           title
           excerpt
+          image
+          author
           slug
         }
       }
@@ -154,5 +167,11 @@ export default {
       color: #a09e9c;
       font-size: 95%;
     }
+  }
+  .infobox{
+    border:1px solid #eff0f3;
+    border-radius:2px;
+    background-color:#F8F9FC;
+    text-align:center;
   }
 </style>
