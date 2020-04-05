@@ -11,9 +11,11 @@
         <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="ml-auto">
 
-          <b-nav-item href="#" >Latest Art</b-nav-item>
-          <b-nav-item href="#" >Resources</b-nav-item>
-          <b-nav-item href="#" >About</b-nav-item>
+          <b-nav-item-dropdown text="Explore Art" right>
+            <b-dropdown-item to="/tag/deep-style">Deep Stlye Transfer</b-dropdown-item>
+            <b-dropdown-item to="/tag/deep-dream">Deep Dream</b-dropdown-item>
+          </b-nav-item-dropdown>
+          <b-nav-item to="/resources" >Resources</b-nav-item>
         </b-navbar-nav>
         </b-collapse>
       </b-navbar>

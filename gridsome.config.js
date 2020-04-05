@@ -1,7 +1,7 @@
 const CompressionPlugin = require('compression-webpack-plugin');
 
 var embedConfig = {
-  'enabledProviders': ['Youtube', 'Vimeo', 'Gist', 'Codepen', 'JSFiddle', 'Giphy'], 
+  'enabledProviders': ['Youtube', 'Vimeo', 'Gist', 'Codepen', 'JSFiddle', 'Giphy'],
   'Youtube': {
     template: './src/embedTemplates/Youtube.hbs',
   },
@@ -22,8 +22,8 @@ var embedConfig = {
 };
 
 module.exports = {
-  siteName: 'Gridsome',
-  siteUrl: 'https://gridsome-starter-articles.now.sh',
+  siteName: 'DeepAbstractArt',
+  siteUrl: 'https://deepabstractart.com',
   permalinks: {
     trailingSlash:false
   },
@@ -39,7 +39,7 @@ module.exports = {
     }
   },
   plugins: [
-    
+
     {
       use: '@gridsome/source-filesystem',
       options: {

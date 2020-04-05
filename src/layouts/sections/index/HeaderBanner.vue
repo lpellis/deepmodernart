@@ -4,7 +4,7 @@
       <b-row class="justify-content-center text-center">
         <b-col md="8" lg="6" class="pt-3 pb-3" style="margin-top:100px">
           <p class="display-4 mb-0">Deep Dream Abstract Art.</p>
-          <p class="lead">Dreaming about abstract art</p>
+          <p class="lead" style="color:gray">An AI dreams about Abstract Art</p>
         </b-col>
         <b-col md="4" lg="6" class="pt-3 pb-3">
           <ClientOnly>

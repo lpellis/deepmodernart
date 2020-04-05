@@ -9,15 +9,12 @@
         <div>
           <b-row>
             <b-col class="py-2" md="3" lg="3" sm="3">
-              <b-card class="h-100" footer-class="border-0 " style="text-align:center;border:1px solid #F8F9FC;border-radius:2px;background-color:#F8F9FC">
+              <b-card class="h-100 infobox" footer-class="border-0 ">
 
               <h3>Abstract Art</h3>
 
                 <b-card-text>
                <img src="/images/home/abstract.jpg" style="width:100%">
-                </b-card-text>
-                <b-card-text>
-                  <g-link class="card-link" :to="recordLink">Continue reading...</g-link>
                 </b-card-text>
               </b-card>
             </b-col>
@@ -26,15 +23,12 @@
             </b-col>
 
             <b-col class="py-2" md="3" lg="3" sm="3">
-              <b-card class="h-100" footer-class="border-0 " style="border:1px solid #F8F9FC;border-radius:2px;background-color:#F8F9FC">
+              <b-card class="h-100 infobox" footer-class="border-0 ">
 
                  <h3>DeepDream</h3>
 
                 <b-card-text>
                   <img src="/images/home/deepdream.png" style="width:100%">
-                </b-card-text>
-                <b-card-text>
-                  <g-link class="card-link" :to="recordLink">Continue reading...</g-link>
                 </b-card-text>
               </b-card>
             </b-col>
@@ -44,15 +38,12 @@
             </b-col>
 
             <b-col class="py-2" md="3" lg="3" sm="3">
-              <b-card class="h-100" footer-class="border-0 " style="border:1px solid #F8F9FC;border-radius:2px;background-color:#F8F9FC">
+              <b-card class="h-100 infobox" footer-class="border-0 ">
 
                  <h3>DeepAbstract</h3>
 
                 <b-card-text>
                   <img src="/images/home/deepabstract.jpg" style="width:100%">
-                </b-card-text>
-                <b-card-text>
-                  <g-link class="card-link" :to="recordLink">Continue reading...</g-link>
                 </b-card-text>
               </b-card>
             </b-col>
@@ -81,14 +72,16 @@ export default {
   components: {
     SectionHeaderBanner,
     SectionLatestArticles,
-    SectionLatestNews,
-    SectionContribute,
-    SectionInfoBoxes,
-    SectionOpenSource
   },
   metaInfo: {
     title: "DeepDream Abstract Art"
   }
 };
 </script>
-
+<style lang="scss">
+  .infobox{
+    border:1px solid #eff0f3;
+    border-radius:2px;
+    background-color:#F8F9FC
+  }
+</style>

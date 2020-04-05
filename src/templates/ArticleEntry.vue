@@ -1,6 +1,32 @@
 <template>
   <DefaultLayout>
-    <img src="/images/articles/1.jpg">
+    <section class="height-60" style="background-color:#F8F9FD;">
+      <b-container>
+        <b-row class="justify-content-center text-center">
+          <b-col md="8" lg="8" class="pt-3 pb-3">
+
+            <img v-if="!showOriginal" :src="`/images/art/${$page.entry.image}/deepart.jpg`" style="max-width:100%;max-height:480px">
+            <div v-if="showOriginal" style="font-size:80%">
+            <img  :src="`/images/art/${$page.entry.image}/original.jpg`" style="max-width:100%;max-height:480px"></img>
+              <br>
+              Source: <a target="_blank" :href="$page.entry.source">{{$page.entry.source}}</a>
+            </div>
+          </b-col>
+          <b-col md="4" lg="4" class="pt-3 pb-3" >
+            <div style="position:absolute;top:30%">
+            <p class="display-4 mb-0">{{$page.entry.title}}</p>
+            <p class="lead">{{$page.entry.author}}</p>
+              <p>
+                <b-button v-if="!showOriginal" @click="showOriginal = !showOriginal">Show Original</b-button>
+                <b-button v-else @click="showOriginal = !showOriginal">Show DeepArt</b-button>
+              </p>
+            </div>
+          </b-col>
+
+
+        </b-row>
+      </b-container>
+    </section>
 
     <b-container class="mt-5 mb-5">
       <b-row>
@@ -42,6 +68,9 @@
   query Article($recordId: ID!, $tags: [String]) {
     entry : article(id: $recordId) {
       title
+      author
+      image
+      source
       content
       excerpt
       createdAt(format:"Do MMMM YYYY")
@@ -79,6 +108,11 @@ import SectionHeader from "~/layouts/sections/article/HeaderBanner.vue";
 import SectionSidebar from "~/layouts/sections/article/Sidebar.vue";
 import { sampleSize } from "lodash";
 export default {
+  data() {
+    return {
+      showOriginal: false
+    };
+  },
   components: {
     SectionHeader,
     SectionSidebar
@@ -94,6 +128,12 @@ export default {
     relatedRecords() {
       return sampleSize(this.$page.related.edges, 2);
     },
+    setImage: function(){
+      return require(`~/resources/images/art/${this.$page.entry.image}/deepart.jpg`);
+    },
+    setImage2: function(){
+      return require(`~/resources/images/art/${this.$page.entry.image}/original.jpg`);
+    }
   },
 
   metaInfo() {
@@ -106,4 +146,13 @@ export default {
 
 <style>
 @import "https://github.githubassets.com/assets/gist-embed-d89dc96f3ab6372bb73ee45cafdd0711.css";
+</style>
+
+<style lang="scss">
+  .article-content{
+    p {
+      color: #a09e9c;
+      font-size: 95%;
+    }
+  }
 </style>

@@ -1,58 +1,27 @@
 ---
-title: The Second Article Title <3 &$% Spec3!l 
-tags: ['tag3', 'tag4']
-excerpt: No sound but the muted purring of the arcade showed him broken lengths of damp chipboard and the drifting shoals of waste. Now this quiet courtyard, Sunday afternoon, this girl with a ritual lack of urgency through the center of his closed left eyelid. Why bother with the movement of the train
+title: Improvisation 9
+image: 2
+author: Wassily Kandinsky
+source: https://www.wikiart.org/en/wassily-kandinsky/improvisation-9-1910
+tags: Abstract, DeepDream, Wassily Kandinsky
+excerpt: x
 createdAt: 2019-11-02 11:26:00
 ---
 
-## Sedebat ineo tradiderat
+### Original Author
 
-https://www.wikiart.org/en/wassily-kandinsky/improvisation-9-1910
-deep dream
-goldbär
+Wassily Wassilyevich Kandinsky was a Russian painter and art theorist.
 
-Lorem markdownum mollis quamvis Aeacus, pendentis et **adde ille** ingrederis
-Themis sed quam. Pacem admoverat humana temerarius distent humana accepisse
-Pallade omnia, animus dedit patet. Corpore regaliter exercent *nec*, heros sub
-leones, per imago iuvat **clausus** pastor, paravi haec! Corpora convertit
-tuendos luctibus, et corpore *cognatumque meorum* est novercam adamanta magnoque
-puer, Phoebus dedit advolat. Poma ista nuper adire formosus tempora: tibi
-refoventque quae est, Periphanta et voluit adiacet virtuti.
+He is credited with painting one of the first recognised purely abstract works. Born in Moscow, Kandinsky spent his childhood in Odessa, where he graduated at Grekov Odessa Art school. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.
 
-Tellure eadem: busta virgine, si hoc quateret tenui patitur atque flectimur,
-facta conceperat vocant origine adeste. Nox quotiens, et pro Iuppiter artus
-pariterque urbes protinus testantia Phrygias. [Protinus
-fistula](http://www.offensane.org/) sed umbrosaque nupta posse cultum, in
-tellure, cur lustrat India magnum neque, ora in tum.
+In 1896, Kandinsky settled in Munich, studying first at Anton Ažbe's private school and then at the Academy of Fine Arts. He returned to Moscow in 1914, after the outbreak of World War I. Following the Russian Revolution, Kandinsky "became an insider in the cultural administration of Anatoly Lunacharsky" and helped establish the Museum of the Culture of Painting. However, by then "his spiritual outlook... was foreign to the argumentative materialism of Soviet society", and opportunities beckoned in Germany, to which he returned in 1920. There, he taught at the Bauhaus school of art and architecture from 1922 until the Nazis closed it in 1933. He then moved to France, where he lived for the rest of his life, becoming a French citizen in 1939 and producing some of his most prominent art. He died in Neuilly-sur-Seine in 1944.
 
-## Cur nate sorores eodem
+Kandinsky's creation of abstract work followed a long period of development and maturation of intense thought based on his artistic experiences. He called this devotion to inner beauty, fervor of spirit, and spiritual desire inner necessity; it was a central aspect of his art.
 
-Colerent copia permanet, duo nobis Inachidos hinc, suo, in. Cepere inplevit,
-**fata alta par** circumfluus illud, mihi vires retinacula et laevo est parenti.
-Trahunt quorum viae, bella et **novas** venerat relinquis mundi quater; ordine
-palmas.
 
-1. Et quas aeratas mixto
-2. In degener cui sanguine agnorunt poenae volucrumque
-3. Imperiumque est corporeasque vidi
+Source: http://en.wikipedia.org/wiki/Wassily_Kandinsky
 
-Xanthos **foret hoc harundine** cunctas ereptamque novum nec, atque viaque.
-Dulichiae laedere ense velletque exire generis. Lacrimantem summa!
+### Deep Dream
 
-## Paveant nova
+This image was generated using Deep Dream with default settings.
 
-Illi quater nec redimat etiamnum. *Condat ruit*, natos Ismenides?
-
-Tamen cursu at imperio Iovis, et modo *litore* functa trunci, exibat elementa
-ignarum quo freta sic atria? Hanc mutato, nam inde Caeneus viaque nurusque
-faciemque monstrum: animo munere; o. Ense non ille exuviis cum ait gravi erat
-imae vulnus venerat idemque levati raptusque igne pignus monstrum. Lascive voco
-**cum**! Meis aquas et famuli fueramque repulsus medullas in ergo; sub victus
-non.
-
-Et credite in parte. Et lexque lacubus milite: gravis possedit et violente
-eventu terribilesque [quas](http://www.tamen-sparsas.com/) natalis aere, saltem
-puppimque soror vivunt, in. Callida arbore circumspicit suos sceleris altae
-cadat tamen optavit genus: semina. Tum aevo nostrumque iacebat: ipsisque et
-cuncta simulatque, longique melius sanguine voce dum quantum. Ferox ignes fidem,
-caelebs fors.

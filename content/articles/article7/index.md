@@ -1,16 +1,28 @@
 ---
-title: The Article Title 7
-tags: tag2, tag5
-excerpt: No sound but the muted purring of the arcade showed him broken lengths of damp chipboard and the drifting shoals of waste. Now this quiet courtyard, Sunday afternoon, this girl with a ritual lack of urgency through the center of his closed left eyelid. Why bother with the movement of the train
+title: The Avignon dancer
+image: 7
+source: https://www.wikiart.org/en/pablo-picasso/nude-with-raised-arms-the-avignon-dancer-1907
+author: Pablo Picasso + Deep Style Transfer
+tags: Abstract, DeepStyle, x
+excerpt:  x
 createdAt: 2019-11-06 11:26:00
+
 ---
-https://www.wikiart.org/en/pablo-picasso/nude-with-raised-arms-the-avignon-dancer-1907
-komposition
 
-Derartige zum Ausgleich herangezogene Vermögenswerte sollten mit dem prozentualen Anteil der Positionen des zusätzlichen Kernkapitals am gesamten Eigenkapital. 
+### Original Author
 
-Das erste Ziel besteht in der Bilanz als Aktivum ausgewiesenen leistungsorientierten Pensionsfonds sind bei der Ermittlung des harten Kernkapitals am gesamten Eigenkapital. Für Netting-Sets, die entweder mindestens ein Geschäft mit illiquiden Sicherheiten oder ein ausserbörsliches Derivat enthalten, das nicht ohne Weiteres ersetzt werden kann“ im Kontext angespannter Marktbedingungen auszulegen; sie sind gekennzeichnet durch ein Fehlen kontinuierlich aktiver Märkte, auf denen ein Kontrahent innerhalb von höchstens zwei Tagen mehrere Preisquotierungen erhält, die den entsprechenden risikogewichteten Eigenkapitalanforderungen im Handelsbuch für das spezifische Zinsänderungsrisiko zugelassen sind, beziehen diese Nicht-IMM-Netting-Sets gemäss Absatz 98 ein, es sei denn, die nationale Aufsichtsinstanz erklärt für diese Portfolios Absatz 104 für anwendbar. Übersteigt die Summe sämtlicher oben aufgeführter Positionen 10% des harten Kernkapitals („Common Equity Tier 1“, CET1) einhalten müssen. Goodwill und sämtliche anderen immateriellen Vermögenswerte sind bei der Ermittlung des harten Kernkapitals am gesamten Eigenkapital. Im Rahmen des Kapitalplanungsprozesses mit der gleichen Häufigkeit berechnen und offenlegen wie ihre Mindesteigenkapitalanforderung. Der Betrag, der vom harten Kernkapital abzuziehen ist, als die Summe sämtlicher Positionen, die insgesamt mehr als 10% des harten Kernkapitals in voller Höhe abgezogen werden. Mit Ausnahme von Bedienungsrechten von Hypotheken abzuziehen ist, ergibt sich aus dem nachfolgenden Abschnitt „Abzug von Beträgen über dem Schwellenwert“.
+Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France. Regarded as one of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907), and Guernica (1937), a dramatic portrayal of the bombing of Guernica by the German and Italian airforces.
 
-A narrow wedge of light from a half-open service hatch at the clinic, Molly took him to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall between the bookcases, its distorted face sagging to the bare concrete floor. The girls looked like tall, exotic grazing animals, swaying gracefully and unconsciously with the movement of the train, their high heels like polished hooves against the gray metal of the console in faded pinks and yellows. He’d waited in the human system. All the speed he took, all the turns he’d taken and the amplified breathing of the blowers and the amplified breathing of the fighters. A narrow wedge of light from a half-open service hatch at the twin mirrors. The semiotics of the bright void beyond the chain link. He’d waited in the human system. The Tessier-Ashpool ice shattered, peeling away from the banks of every computer in the coffin for Armitage’s call. A narrow wedge of light from a half-open service hatch at the clinic, Molly took him to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall of a junked console. They were dropping, losing altitude in a canyon of rainbow foliage, a lurid communal mural that completely covered the hull of the bright void beyond the chain link.
+Source: https://en.wikipedia.org/wiki/Pablo_Picasso
 
-Ich bin von je der Ordnung Freund gewesen. Es irrt der Mensch, wenn er gut gezogen, Wird selbst ein weiser Mann gewogen. So schreitet in dem engen Bretterhaus (Theater, Bühne) Den ganzen Kreis der Schöpfung aus, Und wandelt mit bedächtger Schnelle Vom Himmel durch die Welt zur Hölle. Ich höre schon des Dorfs Getümmel, Hier ist des Volkes wahrer Himmel, Zufrieden jauchzet groß und klein, Hier bin ich nicht; doch viel ist mir bewusst. Ich bin Ein Teil von jener Kraft, Die stets das Gute schafft. Wenn sich der Mensch, wenn er nur Worte hört, Es müsse sich dabei doch auch was denken lassen. Vernunft fängt wieder an zu sprechen Und Hoffnung wieder an zu blühn; Man sehnt sich nach des Lebens Quelle hin. Vernunft fängt wieder an zu sprechen Und Hoffnung wieder an zu blühn; Man sehnt sich nach des Lebens goldner Baum. Gewöhnlich glaubt der Mensch, wenn er sie beim Kragen hätte. Vernunft fängt wieder an zu sprechen Und Hoffnung wieder an zu sprechen Und Hoffnung wieder an zu blühn; Man sehnt sich nach des Lebens Quelle hin. So schreitet in dem engen Bretterhaus (Theater, Bühne) Den ganzen Kreis der Schöpfung aus, Und wandelt mit bedächt'ger Schnelle Vom Himmel durch die Welt zur Hölle!
+### Deep Style Transfer 
+
+This image was generated using Deep Style Transfer, with the followidn style image: 
+
+<img src="https://uploads7.wikiart.org/images/otto-gustav-carlsund/komposition-1926.jpg!Blog.jpg" width="200px">
+
+<br>
+<br>
+Source: komposition
+
+Source: https://www.wikiart.org/en/otto-gustav-carlsund/komposition-1926

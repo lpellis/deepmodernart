@@ -1,7 +1,7 @@
 <template>
   <div class="sidebar position-sticky">
     <div class="toc" v-if="subtitles.length > 0">
-      <h6>On this page</h6>
+      <h6>Sections</h6>
       <ul class="pl-0">
         <li
           class="toc-item"
@@ -18,7 +18,7 @@
       <h6>Tags</h6>
       <div class="tags-items">
         <g-link class="mr-2" v-for="tag in record.tags" :key="tag.id" :to="tag.path">
-          <span>#</span>{{ tag.title }}
+          {{ tag.title }}
         </g-link>
       </div>
     </div>
