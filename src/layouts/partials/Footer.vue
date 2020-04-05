@@ -5,11 +5,6 @@
         <b-col cols="auto">
           <ul class="list-inline mb-0">
             <li class="list-inline-item mb-0">
-              <b-navbar-brand class="mb-0">
-                <g-link to="https://deepabstractart.com" class="nav-link text-white">
-                DeepAbstract Art
-                </g-link>
-              </b-navbar-brand>
             </li>
           </ul>
         </b-col>
