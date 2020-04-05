@@ -55,9 +55,11 @@ export default {
       edges {
         node {
           recordType
-          title, 
+          title,
           path,
           slug,
+          image,
+          author,
           excerpt,
           createdAt(format:"Do MMMM YYYY"),
           timeToRead,

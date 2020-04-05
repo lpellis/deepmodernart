@@ -23,7 +23,7 @@
       />
     </section>
 
-    
+
   </DefaultLayout>
 </template>
 
@@ -69,7 +69,7 @@ query ($id: ID!, $page:Int) {
           __typename
           ... on News {
             id,
-            title, 
+            title,
             path,
             slug,
             excerpt,
@@ -82,8 +82,10 @@ query ($id: ID!, $page:Int) {
           }
           ... on Article {
             id,
-            title, 
+            title,
             path,
+            image,
+            author,
             slug,
             excerpt,
             createdAt(format:"Do MMMM YYYY"),

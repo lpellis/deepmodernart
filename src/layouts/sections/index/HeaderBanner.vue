@@ -5,6 +5,7 @@
         <b-col md="8" lg="6" class="pt-3 pb-3" style="margin-top:100px">
           <p class="display-4 mb-0">Deep Dream Abstract Art.</p>
           <p class="lead" style="color:gray">An AI dreams about Abstract Art</p>
+          <g-link class="card-link" to="/articles"><h5>Explore</h5></g-link>
         </b-col>
         <b-col md="4" lg="6" class="pt-3 pb-3">
           <ClientOnly>

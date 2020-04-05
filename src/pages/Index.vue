@@ -52,10 +52,6 @@
         </div>
       </b-container>
     </section>
-
-    <SectionLatestArticles></SectionLatestArticles>
-
-
   </DefaultLayout>
 </template>
 
