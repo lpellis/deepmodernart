@@ -12,12 +12,17 @@
         </b-row>
 
         <b-row v-if="showSidebar">
-          <b-col order="2" order-lg="1" cols="12" lg="8" class="article-content">
-            <div v-html="$page.entry.content" />
-          </b-col>
-          <b-col lg="3" order="1" order-lg="2" offset-lg="1" class="">
-            <SectionSidebar :record="$page.entry"></SectionSidebar>
-          </b-col>
+          <div class="row">
+            <div class="col-8">
+              <div v-html="$page.entry.content" />
+            </div>
+            <div class="col-4">
+              <SectionSidebar :record="$page.entry"></SectionSidebar>
+            </div>
+
+          </div>
+
+
         </b-row>
       </b-container>
     </section>
@@ -62,3 +67,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+  h3{
+    font-size:120%;
+  }
+</style>

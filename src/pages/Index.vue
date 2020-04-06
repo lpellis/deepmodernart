@@ -19,7 +19,7 @@
               </b-card>
             </b-col>
             <b-col class="py-2" md="1" lg="1" sm="1">
-                <div style="text-align:center;height:100%">+</div>
+                <div style="text-align:center;height:100%;position:absolute;top:40%;font-size:40px;left:30%">+</div>
             </b-col>
 
             <b-col class="py-2" md="3" lg="3" sm="3">
@@ -34,7 +34,7 @@
             </b-col>
 
             <b-col class="py-2" md="1" lg="1" sm="1">
-              <div style="text-align:center;height:100%">=</div>
+              <div style="text-align:center;height:100%;position:absolute;top:40%;font-size:40px;left:30%">=</div>
             </b-col>
 
             <b-col class="py-2" md="3" lg="3" sm="3">

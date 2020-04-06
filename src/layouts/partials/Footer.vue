@@ -12,7 +12,7 @@
           <ul class="list-inline mb-0">
             <li class="list-inline-item mb-0">
 
-                <g-link to="/credits" class="nav-link">
+                <g-link to="/pages/about" class="nav-link">
                   About
                 </g-link>
 

@@ -15,7 +15,6 @@
             <b-dropdown-item to="/tag/deep-style">Deep Style Transfer</b-dropdown-item>
             <b-dropdown-item to="/tag/deep-dream">Deep Dream</b-dropdown-item>
           </b-nav-item-dropdown>
-          <b-nav-item to="/resources" >Resources</b-nav-item>
         </b-navbar-nav>
         </b-collapse>
       </b-navbar>

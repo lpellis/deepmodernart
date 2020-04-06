@@ -4,9 +4,12 @@ image: sebastian-pichler-bAQH53VquTc-unsplash.jpg
 sidebar: true
 ---
 
-## Foret una exiguus nectare gravitate parili viribus
+## Overview
 
-### Optima trahar
+### What is Deep Dream
+DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images.
+
+### How the images are created
 
 Lorem markdownum o utque supplex decentia tellus, sorsque, profatur. Quamquam
 deprensum, quondam aurea et habebat terram; [nomine](http://sine.net/tamen)
@@ -23,37 +26,15 @@ quos.
 4. De suam
 5. Tunc hoc sede fragor resolvit pinus vel
 
-### Patriam mole
+## Frequiently asked questions
 
-Plangit Achilles Helicen orbem supplice, nunc vestra adsumit potitur digitosque
-deferre; viam in **humano** in recenti partu. Formam at sanguine admissum
-exsultat quercum se telo feras corpore horum nec cauda: belli corde.
+### What are the image license
+The base images are all from artworks that are in the public domain.  You can use the generated images under the creative commons license,
+or generate your own.
 
-    if (association_basic_stack > ctp_utf_string.cycle(39)) {
-        pitch(hard_megapixel_session);
-    }
-    var website_java = lunPacketResources(55 - ict_ray, raw_data);
-    buffer *= kibibytePup.pixel_linkedin_system(87, file_port_ospf +
-            keyboardJavaUddi(3, virus_number, 4));
-    icsMinicomputer = parallelEncoding(1, flashUps, ajax_mp_ntfs +
-            disk_dock_character) + infotainment.rgb(lpiLinuxSector);
+### Can I make images like these myself
+Yes, there are many tools available, like https://deepdreamgenerator.com/ or https://aiartists.org/ai-ethics
 
-Videt haec repente tibi, et dicturus nomen. Sed satumque quondam laetior os quam
-terras: egressa metuens; *pro*.
+### The artist likely intented some  meaning to the artwork, is that not lost when combined with the deep style / deep dream process?
 
-### Et cuius letalem
-
-Pars cum. Ossa Tritoniacam colla **qui traxit quam** vacuum cortex? Sit omnibus
-manu palla arbuteos mora! Cruor sentirent *atque* praecutiunt cauda: sibi via
-manus et tellus me duobus vetitum *obortis* celerem. Est vos inhospita faveas,
-surgit flores ab, os ore caput rerum Mygdoniusque Epiros concilio.
-
-Per et [praesentia minus scelerato](http://freta.net/) Daphne ventus. Pudorem
-porrecta moriens.
-
-Ut socios vacuus. Haerenti tumulumque labaret [Palaemona clamato
-precari](http://www.ego-praesepibus.net/parentes.aspx) semperque et, et elisi
-domitamque, defendentia in. Moderante recepi parilique, *haut seque*, est
-retorqueat timet sumptoque scelerique potest Latia ergo raucum ventis, dives?
-Palustribus [clausis concidis aderant](http://inque.org/quae) consanguineas
-ludunt pollicibusque diva gutture sacro et, ponti umeris.
+Probably
