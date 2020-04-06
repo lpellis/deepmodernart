@@ -1,5 +1,5 @@
 <template>
-  <section class="height-30 bg-dark text-white jarallax">
+  <section class="bg-dark text-white jarallax">
     <g-image
       src="~/resources/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg"
       class="jarallax-img opacity-40"
@@ -14,7 +14,7 @@
           </p>
         </b-col>
 
-        
+
       </b-row>
     </b-container>
   </section>
@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 

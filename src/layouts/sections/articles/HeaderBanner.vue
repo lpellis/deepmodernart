@@ -1,5 +1,5 @@
 <template>
-  <section class="height-30 bg-dark text-white jarallax">
+  <section class="bg-dark text-white jarallax" style="min-height:120px">
     <g-image
       src="~/resources/images/freddy.jpg"
       class="jarallax-img opacity-20"

@@ -33,7 +33,7 @@ The base images are all from artworks that are in the public domain.  You can us
 or generate your own.
 
 ### Can I make images like these myself
-Yes, there are many tools available, like https://deepdreamgenerator.com/ or https://aiartists.org/ai-ethics
+Yes, there are many tools available, like deepdreamgenerator.com/ or https://aiartists.org/ai-ethics
 
 ### The artist likely intented some  meaning to the artwork, is that not lost when combined with the deep style / deep dream process?
 

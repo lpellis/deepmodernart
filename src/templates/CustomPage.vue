@@ -3,7 +3,7 @@
 
     <SectionHeaderBanner :record="$page.entry"></SectionHeaderBanner>
 
-    <section class="pt-5 mb-5">
+    <section class="pt-5 mb-5 page">
       <b-container>
         <b-row v-if="!showSidebar">
           <b-col>
@@ -12,17 +12,18 @@
         </b-row>
 
         <b-row v-if="showSidebar">
+          <div class="container">
           <div class="row">
             <div class="col-8">
               <div v-html="$page.entry.content" />
             </div>
-            <div class="col-4">
+            <div class="col-4 sidebar">
               <SectionSidebar :record="$page.entry"></SectionSidebar>
             </div>
 
           </div>
 
-
+          </div>
         </b-row>
       </b-container>
     </section>
@@ -69,7 +70,13 @@ export default {
 </script>
 
 <style lang="scss">
-  h3{
+  .page h3{
     font-size:120%;
+  }
+  .page p{
+    font-size:90%;
+  }
+  .sidebar li{
+    padding:10px;
   }
 </style>

@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <section class="height-60" style="background-color:#F8F9FD;">
+    <section style="background-color:#F8F9FD;">
       <b-container>
         <b-row class="justify-content-center text-center">
           <b-col md="8" lg="8" class="pt-3 pb-3">
@@ -59,7 +59,7 @@
         </b-col>
       </b-row>
 
-      <b-row class="height-30" align-h="around">
+      <b-row align-h="around">
 
         <b-col colls="4" lg="4" md="4"  v-for="relatedRecord in relatedRecords" :key="relatedRecord.node.id">
           <p></p>
