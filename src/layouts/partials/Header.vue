@@ -6,7 +6,7 @@
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <b-navbar-brand href="/" style="color:gray">
           <img style="width:32px;border-radius:4px"  class="d-inline-block align-top" src="https://q4j2g5j9.stackpathcdn.com/ddg-thumbs/xs/2de0b0664bd7b6ef385cd579d75a9046fd522bfa.jpg" alt="Kitten">
-
+          Deep Abstract Art
         </b-navbar-brand>
         <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="ml-auto">

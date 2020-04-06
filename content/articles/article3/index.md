@@ -3,7 +3,7 @@ title: Composition IV
 image: 3
 source: https://www.wikiart.org/en/wassily-kandinsky/composition-iv-1911
 tags: Abstract, DeepStyle, Wassily Kandinsky
-author: Wassily Kandinsky
+author: Wassily Kandinsky & DeepStyle
 excerpt: x
 createdAt: 2019-11-03 11:26:00
 

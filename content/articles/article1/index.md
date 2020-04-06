@@ -1,6 +1,6 @@
 ---
 title: Dedication to Cezanne
-author: David Burliuk + DeepStyle
+author: David Burliuk & DeepStyle
 image: 1
 source: https://www.wikiart.org/en/david-burliuk/dedication-to-cezanne-1910
 tags: Abstract, DeepStyle, David Burliuk

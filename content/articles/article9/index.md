@@ -3,7 +3,7 @@ title: The Embarassment
 image: 8
 source: https://www.wikiart.org/en/francis-picabia/the-embarassment
 tags: Abstract, DeepStyle, Francis Picabia
-author: Francis Picabia
+author: Francis Picabia & DeepStyle
 excerpt: x
 createdAt: 2019-11-03 11:26:00
 

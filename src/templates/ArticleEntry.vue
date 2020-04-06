@@ -4,7 +4,18 @@
       <b-container>
         <b-row class="justify-content-center text-center">
           <b-col md="8" lg="8" class="pt-3 pb-3">
+            <div>
 
+              <div class="d-md-none">
+                <p class="display-4 mb-0">{{$page.entry.title}}</p>
+                <p class="lead">{{$page.entry.author}}</p>
+                <p>
+                  <b-button v-if="!showOriginal" @click="showOriginal = !showOriginal">Show Original</b-button>
+                  <b-button v-else @click="showOriginal = !showOriginal">Show DeepArt</b-button>
+                </p>
+              </div>
+
+            </div>
             <img v-if="!showOriginal" :src="`/images/art/${$page.entry.image}/deepart.jpg`" style="max-width:100%;max-height:480px">
             <div v-if="showOriginal" style="font-size:80%">
             <img  :src="`/images/art/${$page.entry.image}/original.jpg`" style="max-width:100%;max-height:480px"></img>
@@ -12,7 +23,7 @@
               Source: <a target="_blank" :href="$page.entry.source">{{$page.entry.source}}</a>
             </div>
           </b-col>
-          <b-col md="4" lg="4" class="pt-3 pb-3" >
+          <b-col md="4" lg="4" class="pt-3 pb-3 d-none d-md-block" >
             <div style="position:absolute;top:30%">
             <p class="display-4 mb-0">{{$page.entry.title}}</p>
             <p class="lead">{{$page.entry.author}}</p>

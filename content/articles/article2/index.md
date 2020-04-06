@@ -1,7 +1,7 @@
 ---
 title: Improvisation 9
 image: 2
-author: Wassily Kandinsky
+author: Wassily Kandinsky & DeepDream
 source: https://www.wikiart.org/en/wassily-kandinsky/improvisation-9-1910
 tags: Abstract, DeepDream, Wassily Kandinsky
 excerpt: x

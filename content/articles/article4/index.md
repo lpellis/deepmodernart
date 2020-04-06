@@ -1,7 +1,7 @@
 ---
 title: Wassily Kandinsky (Untitled)
 image: 4
-author: Wassily Kandinsky
+author: Wassily Kandinsky & DeepStyle
 source: https://www.wikiart.org/en/wassily-kandinsky/untitled
 tags: Abstract, DeepStyle, Wassily Kandinsky
 excerpt: x

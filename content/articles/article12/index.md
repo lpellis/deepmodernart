@@ -3,7 +3,7 @@ title: Landscape
 image: 12
 source: https://www.wikiart.org/en/wassily-kandinsky/blue-rider-1903
 tags: Expressionism, DeepDream, Wassily Kandinsky
-author: Wassily Kandinsky
+author: Wassily Kandinsky & DeepDream
 excerpt: x
 createdAt: 2019-11-03 11:26:00
 ---

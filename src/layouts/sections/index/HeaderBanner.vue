@@ -14,16 +14,16 @@
                   style="text-shadow: 0px 0px 2px #000;width:380px;max-width:100%"
                   fade
                   indicators
-                  img-width="120"
-                  img-height="180"
           >
             <b-carousel-slide
                     img-src="/images/art/1.png"
-
-                    img-height="120"
-                    img-width="120"
             ></b-carousel-slide>
-
+            <b-carousel-slide
+                    img-src="/images/art/2.png"
+            ></b-carousel-slide>
+            <b-carousel-slide
+                    img-src="/images/art/3.png"
+            ></b-carousel-slide>
           </b-carousel>
 
         </b-col>

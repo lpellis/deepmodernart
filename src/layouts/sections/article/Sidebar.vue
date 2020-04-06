@@ -1,6 +1,6 @@
 <template>
   <div class="sidebar position-sticky">
-    <div class="toc" v-if="subtitles.length > 0">
+    <div class="toc d-none d-lg-block" v-if="subtitles.length > 0">
       <h6>Sections</h6>
       <ul class="pl-0">
         <li

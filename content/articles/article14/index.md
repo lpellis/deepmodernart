@@ -3,7 +3,7 @@ title: Composition VII
 image: 14
 source: https://www.wikiart.org/en/wassily-kandinsky/composition-vii-1913
 tags: Expressionism, DeepDream, Wassily Kandinsky
-author: Wassily Kandinsky
+author: Wassily Kandinsky & DeepDream
 excerpt: x
 createdAt: 2019-11-03 11:26:00
 ---
