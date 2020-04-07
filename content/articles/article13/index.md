@@ -2,7 +2,7 @@
 title: Moscow I
 image: 13
 source: https://www.wikiart.org/en/wassily-kandinsky/moscow-i-1916
-tags: Expressionism, DeepDream, Wassily Kandinsky
+tags: Expressionism, DeepDream
 author: Wassily Kandinsky & DeepDream
 excerpt: x
 createdAt: 2019-11-03 11:26:00

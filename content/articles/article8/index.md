@@ -2,7 +2,7 @@
 title: Landscape
 image: 8
 source: https://www.wikiart.org/en/giacomo-balla/landscape-1913-1
-tags: Abstract, DeepStyle, Giacomo Balla
+tags: Abstract, DeepStyle
 author: Giacomo Balla & DeepStyle
 excerpt: x
 createdAt: 2019-11-03 11:26:00

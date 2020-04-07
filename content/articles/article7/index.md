@@ -3,7 +3,7 @@ title: The Avignon dancer
 image: 7
 source: https://www.wikiart.org/en/pablo-picasso/nude-with-raised-arms-the-avignon-dancer-1907
 author: Pablo Picasso & DeepStyle
-tags: Abstract, DeepStyle, x
+tags: Abstract, DeepStyle
 excerpt:  x
 createdAt: 2019-11-06 11:26:00
 

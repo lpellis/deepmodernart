@@ -3,7 +3,7 @@ title: Altarpiece No. 1, Group X
 image: 5
 source: https://www.wikiart.org/en/hilma-af-klint/altar-painting-1915
 author: Hilma af Klint & DeepStyle
-tags: Abstract, DeepStyle, Hilma af Klint
+tags: Abstract, DeepStyle
 excerpt:  Altarpiece No. 1, Group X, by Hilma af Klint & DeepStyle
 createdAt: 2019-11-06 11:26:00
 

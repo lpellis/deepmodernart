@@ -3,7 +3,7 @@ title: Relief, Clock
 image: 6
 source: https://www.wikiart.org/en/jean-arp/relief-clock
 author: Jean Arp & DeepStyle
-tags: Abstract, DeepStyle, Jean Arp
+tags: Abstract, DeepStyle
 excerpt: x
 createdAt: 2019-11-05 11:26:00
 ---

@@ -2,7 +2,7 @@
 title: Landscape
 image: 11
 source: https://www.wikiart.org/en/wassily-kandinsky/study-for-composition-vii-1913
-tags: Abstract, DeepDream, Wassily Kandinsky
+tags: Abstract, DeepDream
 author: Wassily Kandinsky & DeepDream
 excerpt: x
 createdAt: 2019-11-03 11:26:00
