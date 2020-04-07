@@ -14,12 +14,12 @@
             <p class="lead">
 
 
-              Sometimes you need a different perspective to achieve your goal. 
+              Sometimes you need a different perspective to achieve your goal.
               <br>
               With our articles, we want to help you to see your challenges from a different perspective and to solve them faster.
 
             <p class="text-center">
-              <g-link to="/articles" class="btn btn-lg btn-primary">Browse all articles</g-link>
+              <g-link to="/articles" class="btn btn-lg btn-primary">Browse all Art</g-link>
             </p>
           </b-col>
 
@@ -32,7 +32,7 @@
             />
           </b-col>
         </b-row>
-        
+
       </b-container>
     </section>
 </template>

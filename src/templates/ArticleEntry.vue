@@ -156,7 +156,21 @@ export default {
 
   metaInfo() {
     return {
-      title: this.$page.entry.title
+      title: this.$page.entry.title,
+      meta: [
+        {
+          name: 'twitter:card',
+          content: 'summary'
+        },
+        {
+          name: 'twitter:title',
+          content: this.$page.entry.title,
+        },
+        {
+          name: 'twitter:image',
+          content: `https://deepabstractart.com/images/art/${this.$page.entry.image}/deepart.jpg`,
+        }
+      ]
     };
   }
 };

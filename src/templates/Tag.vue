@@ -46,14 +46,17 @@ export default {
   },
   metaInfo() {
     return {
-      title: `Tag result for: ${this.$page.records.id}`
+      title: `Tag results for: ${this.$page.records.id}`,
+      link: [
+        { rel: 'stylesheet', href: '/css/customtags.css' },
+      ]
     }
   },
   mounted() {
     console.log(`tag page: ${this.$page.records.id}`);
-    if (this.$page.records.id === 'DeepStyle') {
-      console.log(`tag page: ${this.$page.otherval.id}`);
-    }
+    // if (this.$page.records.id === 'DeepStyle') {
+    //   console.log(`tag page: ${this.$page.otherval.id}`);
+    // }
 
   }
 };

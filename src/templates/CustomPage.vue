@@ -63,7 +63,7 @@ export default {
   },
   metaInfo() {
     return {
-      title: this.$page.entry.title
+      title: this.$page.entry.title,
     }
   }
 }
