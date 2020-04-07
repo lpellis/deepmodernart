@@ -9,7 +9,7 @@
         <div>
           <b-row>
             <b-col class="py-2" md="3" lg="3" sm="3">
-              <b-card class="h-100 infobox" footer-class="border-0 ">
+              <b-card class="h-100 home-infobox" footer-class="border-0 ">
 
               <h3>Abstract Art</h3>
 
@@ -23,7 +23,7 @@
             </b-col>
 
             <b-col class="py-2" md="3" lg="3" sm="3">
-              <b-card class="h-100 infobox" footer-class="border-0 ">
+              <b-card class="h-100 home-infobox" footer-class="border-0 ">
 
                  <h3>DeepDream</h3>
 
@@ -38,7 +38,7 @@
             </b-col>
 
             <b-col class="py-2" md="3" lg="3" sm="3">
-              <b-card class="h-100 infobox" footer-class="border-0 ">
+              <b-card class="h-100 home-infobox" footer-class="border-0 ">
 
                  <h3>DeepAbstract</h3>
 
@@ -68,8 +68,8 @@ export default {
 };
 </script>
 <style lang="scss">
-  .infobox {
-    border:1px solid #eff0f3;
+  .home-infobox {
+    border:1px solid #bfc0c3;
     border-radius:2px;
     background-color:#F8F9FC;
     h3 {

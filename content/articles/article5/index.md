@@ -24,4 +24,4 @@ This image was generated using Deep Style Transfer, with the followidn style ima
 <br>
 <br>
 
-Source: https://www.wikiart.org/en/david-bomberg/in-the-hold-1914
+Source: https://www.wikiart.org/en/david-bomberg/in-the-hold-1911

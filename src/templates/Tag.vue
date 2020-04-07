@@ -48,6 +48,13 @@ export default {
     return {
       title: `Tag result for: ${this.$page.records.id}`
     }
+  },
+  mounted() {
+    console.log(`tag page: ${this.$page.records.id}`);
+    if (this.$page.records.id === 'DeepStyle') {
+      console.log(`tag page: ${this.$page.otherval.id}`);
+    }
+
   }
 };
 </script>

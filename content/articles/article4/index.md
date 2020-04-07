@@ -20,7 +20,7 @@ In 1896, Kandinsky settled in Munich, studying first at Anton Ažbe's private sc
 Kandinsky's creation of abstract work followed a long period of development and maturation of intense thought based on his artistic experiences. He called this devotion to inner beauty, fervor of spirit, and spiritual desire inner necessity; it was a central aspect of his art.
 
 
-Source: http://en.wikipedia.org/wiki/Wassily_Kandinsky
+Source: http://eng.wikipedia.org/wiki/Wassily_Kandinsky
 
 ### Deep Style Transfer 
 
