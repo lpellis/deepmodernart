@@ -28,7 +28,7 @@
                  <h3>DeepDream</h3>
 
                 <b-card-text>
-                  <img src="/images/home/deepdream.png" style="width:100%">
+                  <img src="/images/home/deepdream.png" style="width:100%;padding-top:30px">
                 </b-card-text>
               </b-card>
             </b-col>
@@ -57,17 +57,10 @@
 
 <script>
 import SectionHeaderBanner from "~/layouts/sections/index/HeaderBanner.vue";
-import SectionLatestArticles from "~/layouts/sections/index/LatestArticles.vue";
-import SectionLatestNews from "~/layouts/sections/index/LatestNews.vue";
-
-import SectionContribute from "~/layouts/sections/index/Contribute.vue";
-import SectionInfoBoxes from "~/layouts/sections/index/InfoBoxes.vue";
-import SectionOpenSource from "~/layouts/sections/index/OpenSource.vue";
 
 export default {
   components: {
     SectionHeaderBanner,
-    SectionLatestArticles,
   },
   metaInfo: {
     title: "DeepDream Abstract Art"
@@ -75,9 +68,12 @@ export default {
 };
 </script>
 <style lang="scss">
-  .infobox{
+  .infobox {
     border:1px solid #eff0f3;
     border-radius:2px;
-    background-color:#F8F9FC
+    background-color:#F8F9FC;
+    h3 {
+    font-size:180%;
+  }
   }
 </style>

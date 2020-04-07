@@ -9,7 +9,7 @@
         </b-col>
         <b-col sm="6" lg="6"  class="pt-3 pb-3" >
 
-          <b-carousel
+          <g-link to="/articles"><b-carousel
                   id="carousel-fade"
                   style="text-shadow: 0px 0px 2px #000;width:380px;max-width:100%"
                   fade
@@ -25,6 +25,7 @@
                     img-src="/images/art/3.png"
             ></b-carousel-slide>
           </b-carousel>
+          </g-link>
 
         </b-col>
 

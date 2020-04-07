@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <section style="background-color:#F8F9FD;">
+    <section style="background-color:#F8F9FD;" class="article">
       <b-container>
         <b-row class="justify-content-center text-center">
           <b-col md="8" lg="8" class="pt-3 pb-3">
@@ -109,7 +109,7 @@
     }
 
     related: allArticle(
-      filter: { id: { ne: $recordId }, tags: {containsAny: $tags} }
+      filter: { image: { ne: 8 }, id: { ne: $recordId }, tags: {containsAny: $tags} }
     ) {
       edges {
         node {
@@ -172,6 +172,7 @@ export default {
       color: #a09e9c;
       font-size: 95%;
     }
+    overflow-wrap: break-word;
   }
   .infobox{
     border:1px solid #eff0f3;

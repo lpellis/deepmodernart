@@ -9,22 +9,16 @@ sidebar: true
 ### What is Deep Dream
 DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images.
 
-### How the images are created
+<div style="position:relative;height:190px" class="d-none d-md-block">
+<img src="/images/deepdream2.jpg" style="max-width:49%;float:left;max-height:190px">
+<img src="/images/deepdream.jpg" style="max-width:49%;float:right;max-height:190px"><br>
+<small style="top:100%;left:0;position:absolute;backgrcound-color:red">Deep Dream image after applying 10 iterations.</small>
+<small style="top:100%;right:0;position:absolute;backgcround-color:blue">Deep Dream representation trained to recognize dogs</small>
+</div>
 
-Lorem markdownum o utque supplex decentia tellus, sorsque, profatur. Quamquam
-deprensum, quondam aurea et habebat terram; [nomine](http://sine.net/tamen)
-dumque.
+<br>
 
-Ille artus [tulisse](http://www.anili-nebulas.com/nos-tum) aequoris Aiaci te
-dona, vanum, nos. Resupinus leones sedes totidem et urbe nisi mori ictus illis!
-Te auras. Haec lateo, dum inpono, amor, ab **ad lammina eodem** et sollemni, nec
-quos.
-
-1. Patriam ignoscat
-2. Quibus sues silva
-3. Aut et praemonuisse Pudor
-4. De suam
-5. Tunc hoc sede fragor resolvit pinus vel
+<br>
 
 ## Frequiently asked questions
 

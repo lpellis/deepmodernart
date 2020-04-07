@@ -2,7 +2,8 @@
   <nav role="navigation" aria-label="pagination">
     <ul class="pagination justify-content-center">
       <li class="page-item" v-bind:class="{ disabled: isFirstPage(currentPage, totalPages) }">
-        <g-link :to="previousPage(currentPage,totalPages)" class="page-link" tabindex="-1" >Previous</g-link>
+        <g-link v-if="!isFirstPage(currentPage, totalPages)" :to="previousPage(currentPage,totalPages)" class="page-link" tabindex="-1" >Previous</g-link>
+        <a class="page-link" v-else>Previous</a>
       </li>
       <li v-for="page in pages" :key="page.name" class="page-item" v-bind:class="{ active: isCurrentPage(currentPage, page.name) }">
         <g-link
@@ -13,7 +14,8 @@
         >{{page.name}}</g-link>
       </li>
       <li class="page-item " v-bind:class="{ disabled: isLastPage(currentPage, totalPages) }">
-        <g-link :to="nextPage(currentPage,totalPages)" class="page-link" tabindex="-1" >Next</g-link>
+        <g-link v-if="!isLastPage(currentPage, totalPages)" :to="nextPage(currentPage,totalPages)" class="page-link" tabindex="-1" >Next</g-link>
+        <a class="page-link" v-else>Next</a>
       </li>
     </ul>
   </nav>
