@@ -33,9 +33,6 @@ export default {
       if( this.record.recordType == 'Article') {
         return `/articles/${this.record.slug}`;
       }
-      if( this.record.recordType == 'News') {
-        return `/news/${this.record.slug}`;
-      }
 
       return this.record.path;
     }

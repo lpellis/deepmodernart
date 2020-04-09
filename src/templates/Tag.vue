@@ -77,19 +77,6 @@ query ($id: ID!, $page:Int) {
       edges {
         node {
           __typename
-          ... on News {
-            id,
-            title,
-            path,
-            slug,
-            excerpt,
-            createdAt(format:"Do MMMM YYYY"),
-            timeToRead,
-            tags {
-              title,
-              path
-            }
-          }
           ... on Article {
             id,
             title,

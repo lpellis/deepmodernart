@@ -25,12 +25,6 @@ module.exports = function (api) {
           return obj.excerpt.replace(/^(.{200}[^\s]*).*/, "$1" + longText);
         }
       },
-      News: {
-        excerpt(obj) {
-          var longText = (obj.excerpt.length > 200) ? '...' : '';
-          return obj.excerpt.replace(/^(.{200}[^\s]*).*/, "$1" + longText);
-        }
-      }
     });
 
   });
@@ -39,22 +33,13 @@ module.exports = function (api) {
    * Some node customizations
    * * ensure that the tags are always saved as an array
    *   this allows us to use `tag1, tag2` and `['tag1', 'tag2']` as syntax in the md files
-   * 
+   *
    * * generates the slug (maybe obsolet, but needed for the dynamic pages)
-   * 
+   *
    * * adds the `typeName` to each node
    */
   api.onCreateNode(options => {
     if (options.internal.typeName === 'Article') {
-      options.recordType = options.internal.typeName;
-      options.tags = (typeof options.tags === 'string') ? options.tags.split(',').map(string => string.trim()) : options.tags;
-      options.slug = slugify(options.title, slugReplacement);
-      return {
-        ...options
-      };
-    }
-
-    if (options.internal.typeName === 'News') {
       options.recordType = options.internal.typeName;
       options.tags = (typeof options.tags === 'string') ? options.tags.split(',').map(string => string.trim()) : options.tags;
       options.slug = slugify(options.title, slugReplacement);
@@ -94,7 +79,7 @@ module.exports = function (api) {
    * Creates the article details pages
    * we're using this way, because we want to pass
    * some values to the page context
-   * 
+   *
    * this is required to enable the "related posts" functionality
    */
   api.createPages(async ({
@@ -151,17 +136,10 @@ module.exports = function (api) {
         context
       ) => {
 
-      
 
       const collectionArticle = context._app.store.getCollection('Article')._collection;
 
       const articles = collectionArticle.data.map(record => {
-        return _.pick(record, ['title', 'path', 'excerpt', 'content', 'tags', 'recordType']);
-      });
-
-      const collectionNews = context._app.store.getCollection('News')._collection;
-
-      const news = collectionNews.data.map(record => {
         return _.pick(record, ['title', 'path', 'excerpt', 'content', 'tags', 'recordType']);
       });
 
@@ -170,7 +148,7 @@ module.exports = function (api) {
         name: 'search.json'
       };
 
-      const records = _.merge(articles, news);
+      const records = _.merge(articles);
 
       const outputPath = path.resolve(process.cwd(), output.dir);
       const outputPathExists = fs.existsSync(outputPath);
@@ -184,5 +162,5 @@ module.exports = function (api) {
       }
 
     });
-  
+
 };

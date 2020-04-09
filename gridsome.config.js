@@ -62,25 +62,6 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        typeName: 'News',
-        baseDir: './content/news',
-        path: '*.md',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            ['@noxify/gridsome-plugin-remark-embed', embedConfig]
-          ]
-        }
-      }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
         typeName: 'Resource',
         baseDir: './content/resources',
         path: '*.md',
@@ -125,10 +106,6 @@ module.exports = {
             changefreq: 'weekly',
             priority: 0.5
           },
-          '/news/*': {
-            changefreq: 'weekly',
-            priority: 0.5
-          }
         }
       }
     },
@@ -172,10 +149,6 @@ module.exports = {
         component: './src/templates/ResourceTagFilter.vue'
       }
     ],
-    News: [{
-      path: '/news/:title',
-      component: './src/templates/News.vue'
-    }],
     CustomPage: [{
       path:'/pages/:title',
       component: './src/templates/CustomPage.vue'
