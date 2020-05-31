@@ -10,8 +10,8 @@ sidebar: true
 DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images.
 
 <div style="position:relative;height:190px" class="d-none d-md-block">
-<img src="/images/deepdream2.jpg" style="max-width:49%;float:left;max-height:190px">
-<img src="/images/deepdream.jpg" style="max-width:49%;float:right;max-height:190px"><br>
+<img src="/images/deepdream2.jpg" style="max-width:49%;float:left;max-height:190px" alt="Deep dream image after 10 iterations">
+<img src="/images/deepdream.jpg" style="max-width:49%;float:right;max-height:190px" alt="Deep dream trained on dogs"><br>
 <small style="top:100%;left:0;position:absolute;backgrcound-color:red">Deep Dream image after applying 10 iterations.</small>
 <small style="top:100%;right:0;position:absolute;backgcround-color:blue">Deep Dream representation trained to recognize dogs</small>
 </div>

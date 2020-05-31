@@ -16,9 +16,9 @@
               </div>
 
             </div>
-            <img v-if="!showOriginal" :src="`/images/art/${$page.entry.image}/deepart.jpg`" style="max-width:100%;max-height:480px">
+            <img v-if="!showOriginal" :src="`/images/art/${$page.entry.image}/deepart.jpg`" style="max-width:100%;max-height:480px" :alt="`${$page.entry.title} by ${$page.entry.author}`">
             <div v-if="showOriginal" style="font-size:80%">
-            <img  :src="`/images/art/${$page.entry.image}/original.jpg`" style="max-width:100%;max-height:480px"></img>
+            <img  :src="`/images/art/${$page.entry.image}/original.jpg`" style="max-width:100%;max-height:480px" :alt="`${$page.entry.title} by ${$page.entry.author}`">
               <br>
               Source: <a target="_blank" :href="$page.entry.source">{{$page.entry.source}}</a>
             </div>
@@ -109,6 +109,7 @@
     }
 
     related: allArticle(
+      sortBy: "id",
       filter: { image: { ne: 8 }, id: { ne: $recordId }, tags: {containsAny: $tags} }
     ) {
       edges {
@@ -131,6 +132,7 @@
 import SectionHeader from "~/layouts/sections/article/HeaderBanner.vue";
 import SectionSidebar from "~/layouts/sections/article/Sidebar.vue";
 import { sampleSize } from "lodash";
+var seedrandom = require('seedrandom');
 export default {
   data() {
     return {
@@ -150,6 +152,7 @@ export default {
 
   computed: {
     relatedRecords() {
+      seedrandom(this.$page.entry.title, {global: true});
       return sampleSize(this.$page.related.edges, 2);
     },
   },

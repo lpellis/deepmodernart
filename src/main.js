@@ -18,7 +18,8 @@ import 'prismjs/themes/prism.css';
 import '~/resources/scss/prism-theme.scss';
 
 
-
+let seedrandom = require('seedrandom');
+seedrandom('hello.', { global: true });
 import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 
 config.autoAddCss = false;

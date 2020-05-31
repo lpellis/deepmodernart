@@ -11,7 +11,7 @@
 
 
         <b-card-text>
-          <g-link class="card-link" :to="recordLink"><img  :src="`/images/art/${record.image}/deepart.jpg`" style="max-width:100%;max-height:280px"></g-link>
+          <g-link class="card-link" :to="recordLink"><img  :src="`/images/art/${record.image}/deepart.jpg`" style="max-width:100%;max-height:280px" :alt="`DeepArt by ${record.author}`"></g-link>
           <br>
           {{ record.author }}
         </b-card-text>

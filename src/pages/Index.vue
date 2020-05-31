@@ -14,7 +14,7 @@
               <h3>Abstract Art</h3>
 
                 <b-card-text>
-               <img src="/images/home/abstract.jpg" style="width:100%">
+               <img src="/images/home/abstract.jpg" style="width:100%" alt="Abstract Art Image">
                 </b-card-text>
               </b-card>
             </b-col>
@@ -28,7 +28,7 @@
                  <h3>DeepDream</h3>
 
                 <b-card-text>
-                  <img src="/images/home/deepdream.png" style="width:100%;padding-top:30px">
+                  <img src="/images/home/deepdream.png" style="width:100%;padding-top:30px" alt="Google DeepDream Dog">
                 </b-card-text>
               </b-card>
             </b-col>
@@ -43,7 +43,7 @@
                  <h3>DeepAbstract</h3>
 
                 <b-card-text>
-                  <img src="/images/home/deepabstract.jpg" style="width:100%">
+                  <img src="/images/home/deepabstract.jpg" style="width:100%" alt="DeepAbstract Image">
                 </b-card-text>
               </b-card>
             </b-col>

@@ -16,6 +16,10 @@
           <div class="row">
             <div class="col-8">
               <div v-html="$page.entry.content" />
+              Follow us on Twitter:<br>
+              <a href="https://twitter.com/deepabstractart" target="_blank" rel="noopener" style="padding:0;color:blue">
+                <font-awesome :icon="['fab', 'twitter']"></font-awesome>
+              </a>
             </div>
             <div class="col-4 sidebar">
               <SectionSidebar :record="$page.entry"></SectionSidebar>
@@ -78,5 +82,8 @@ export default {
   }
   .sidebar li{
     padding:10px;
+    a {
+      font-size: 11px;
+    }
   }
 </style>

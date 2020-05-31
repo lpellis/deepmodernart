@@ -20,7 +20,7 @@ Source: https://en.wikipedia.org/wiki/David_Burliuk
 
 This image was generated using Deep Style Transfer, with the following style image: 
 
-<img src="https://uploads2.wikiart.org/images/edvard-munch/the-scream-1893(2).jpg!PinterestLarge.jpg" width="200px">
+<img src="https://uploads2.wikiart.org/images/edvard-munch/the-scream-1893(2).jpg!PinterestLarge.jpg" width="220px" height="180px">
 
 <br>
 <br>

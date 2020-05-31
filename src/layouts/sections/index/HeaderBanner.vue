@@ -16,13 +16,13 @@
                   indicators
           >
             <b-carousel-slide
-                    img-src="/images/art/1.png"
+                    img-src="/images/art/1.png" img-alt="DeepAbstract sample image 1"
             ></b-carousel-slide>
             <b-carousel-slide
-                    img-src="/images/art/2.png"
+                    img-src="/images/art/2.png" img-alt="DeepAbstract sample image 2"
             ></b-carousel-slide>
             <b-carousel-slide
-                    img-src="/images/art/3.png"
+                    img-src="/images/art/3.png" img-alt="DeepAbstract sample image 3"
             ></b-carousel-slide>
           </b-carousel>
           </g-link>
