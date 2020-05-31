@@ -23,6 +23,4 @@ This image was generated using Deep Style Transfer, with the followidn style ima
 
 <br>
 <br>
-Source: komposition
-
-Source: https://www.wikiart.org/en/otto-gustav-carlsund/komposition-1926
+Source: komposition.  <a href="https://www.wikiart.org/en/otto-gustav-carlsund/komposition-1926">Click here</a> to view the original.
