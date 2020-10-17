@@ -1,6 +1,6 @@
 # DeepAbstractArt
 
-Grisome starter ideal for articles/tutorials
+https://deepabstractart.com
 
 ## Demo
 [https://gridsome-starter-articles.now.sh/](https://gridsome-starter-articles.now.sh/)
