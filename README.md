@@ -2,7 +2,6 @@
 
 https://deepabstractart.com
 
-## Demo
 [https://gridsome-starter-articles.now.sh/](https://gridsome-starter-articles.now.sh/)
 
 ## Features
