@@ -9,3 +9,6 @@ dist
 static/search.json
 git-content
 .idea
+
+# Local Netlify folder
+.netlify
