@@ -1,4 +1,4 @@
-# Gridsome Articles Starter
+# DeepAbstractArt
 
 Grisome starter ideal for articles/tutorials
 
