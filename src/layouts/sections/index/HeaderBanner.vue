@@ -4,8 +4,8 @@
       <b-row class="justify-content-center text-center">
         <b-col sm="6" lg="6" class="pt-3 pb-3" style="margin-top:60px">
           <p class="display-4 mb-0">Deep Dream Abstract Art.</p>
-          <p class="lead" style="color:gray">A neural net dreams about abstract art</p>
-          <g-link class="card-link" to="/articles"><h5>Explore</h5></g-link>
+          <p class="lead" style="color:gray">A deep neural net dreams about abstract art</p>
+          <g-link class="card-link" to="/articles"><h5>Explore Art</h5></g-link>
         </b-col>
         <b-col sm="6" lg="6"  class="pt-3 pb-3" >
 
