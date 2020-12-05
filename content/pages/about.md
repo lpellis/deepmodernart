@@ -1,5 +1,6 @@
 ---
-title: About
+title: Deep Dream
+subtitle: A neural net dreams about abstract art
 image: sebastian-pichler-bAQH53VquTc-unsplash.jpg
 sidebar: true
 ---
@@ -27,8 +28,8 @@ The base images are all from artworks that are in the public domain.  You can us
 or generate your own.
 
 ### Can I make images like these myself
-Yes, there are many tools available, like deepdreamgenerator.com/ or https://aiartists.org/ai-ethics
+Yes, there are many tools availible, like https://deepdreamgenerator.com/ or https://aiartists.org/ai-ethic
 
-### The artist likely intented some  meaning to the artwork, is that not lost when combined with the deep style / deep dream process?
+### The artist likely intended some  meaning to the artwork, is that not lost when combined with the deep style / deep dream process?
 
 Probably
