@@ -9,6 +9,7 @@
       <b-row class="justify-content-center text-center">
         <b-col md="10" lg="8" class="pt-3 pb-3">
           <p class="display-4 mb-0">Explore</p>
+          {{date | moment('MMM D,  h:mm a')}}
         </b-col>
 
 
@@ -21,7 +22,12 @@
 export default {
   props: [
     'totalCount'
-  ]
+  ],
+  computed: {
+    date() {
+      return new Date();
+    }
+  }
 }
 </script>
 

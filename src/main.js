@@ -34,6 +34,7 @@ export default function (Vue, { head, router }) {
 
   Vue.use(BootstrapVue);
   Vue.use(VueFuse);
+  Vue.use(require('vue-moment'));
 
   head.meta.push({
     charset: 'utf-8'
