@@ -25,7 +25,7 @@
     "gridsome-source-static-meta": "^1.0.1",
     "imagemin-webpack-plugin": "^2.4.2",
     "jquery": "^3.5.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "netlify-plugin-pagewatch": "^1.0.4",
     "remark-attr": "^0.9.0",
     "remark-rehype": "^5.0.0",
